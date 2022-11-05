@@ -10,7 +10,9 @@ Step 2: Run the visualisation script to see a histogram of the distribution base
 Improvements to make:
 Make python code automatically clean data better (there are a few data quality issues I had to manually filter out in Excel)
 Expand data to all of BC
+
 More visualisations
+
 Find square footage data and append
 
 Current Exploratory Histogram:
