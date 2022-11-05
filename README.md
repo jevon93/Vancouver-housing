@@ -11,3 +11,4 @@ Expand data to all of BC
 More visualisations
 Find square footage data and append
 
+!(https://github.com/jevon93/Vancouver-housing/blob/main/histvre.png)
