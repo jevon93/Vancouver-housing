@@ -2,7 +2,9 @@
 Web scraping Vancouver real estate data from Remax and analysing it
 
 Current Functionality:
+
 Step 1: Run the python script to scrape all Vancouver houses for sale from the Remax.ca website
+
 Step 2: Run the visualisation script to see a histogram of the distribution based on Area and Price
 
 Improvements to make:
