@@ -12,4 +12,6 @@ More visualisations
 Find square footage data and append
 
 Current Exploratory Histogram:
+
+
 ![Vancouver Real Estate Prices](histvre.png)
